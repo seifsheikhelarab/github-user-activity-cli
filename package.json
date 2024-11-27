@@ -1,0 +1,23 @@
+{
+  "name": "github-user-activity-cli",
+  "version": "1.0.0",
+  "description": "A simple command-line interface (CLI) application to fetch and display the recent activity of a GitHub user using the GitHub API.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "niteinheaven",
+  "license": "MIT",
+"bin": {
+    "github-activity": "index.js" 
+  },
+  "keywords": [],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seifsheikhelarab/github-user-activity-cli.git"
+  },
+  "bugs": {
+    "url": "https://github.com/seifsheikhelarab/github-user-activity-cli/issues"
+  },
+  "homepage": "https://github.com/seifsheikhelarab/github-user-activity-cli#readme"
+}
